@@ -1,0 +1,10 @@
+a,University Centre,Engineering Building,280,0,1.5,0,0
+b,University Centre,Engineering Building,150,140,0,0,0
+c,Parking Lot,Engineering Building,263,263,0,0,0
+d,Parking Lot,University Centre,240,40,1.0,0,0
+e,Parking Lot,The Works,390,340,0,0,0
+f,Parking Lot,Education Building,240,220,1,0,0
+g,The Works,Education Building,260,0,1.0,0,0
+j,Library,Education Building,250,0,1.0,0,0
+h,The Works,Library,280,0,0.6,0,0
+i,Library,University Centre,245,0,1.5,0,0
